@@ -11,4 +11,7 @@
 ### 2. package 저장파일 다운로드
 
 
+### 3. package control 설치 
+설치 url: <https://packagecontrol.io/installation>
+
 
