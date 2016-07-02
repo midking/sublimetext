@@ -26,12 +26,18 @@ url: <https://github.com/midking/sublimetext>
 ##### 4. 복사한 파일을 붙여 넣는다
 ![설치](images/image08.png "이미지제목")
 
-![설치](images/image09.png "이미지제목")
-![설치](images/image10.png "이미지제목")
-![설치](images/image11.png "이미지제목")
-![설치](images/image12.png "이미지제목")
+### Package Control 설치하여 모든 package 설치
+url: <https://packagecontrol.io/installation>
 
-### 3. package control 설치 
-설치 url: <https://packagecontrol.io/installation>
+##### 1. package control 설치 내용 복사
+![설치](images/image09.png "이미지제목")
+##### 2. 콘솔창 열기
+![설치](images/image10.png "이미지제목")
+##### 3. 복사한 내용 붙여 넣기
+![설치](images/image11.png "이미지제목")
+
+### 설치 완료
+1. sidebar 한번 열어줘야 단축히 먹혀서 한번 열어준다.
+![설치](images/image12.png "이미지제목")
 
 
