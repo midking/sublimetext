@@ -1,0 +1,1 @@
+# sublimetext 설치
