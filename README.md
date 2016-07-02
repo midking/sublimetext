@@ -23,9 +23,13 @@ url: <https://github.com/midking/sublimetext>
 ![설치](images/image06.png "이미지제목")
 ##### 3. user 폴더 안으로 들어가서
 ![설치](images/image07.png "이미지제목")
-![설치](images/image07.png "이미지제목")
-![설치](images/image07.png "이미지제목")
-![설치](images/image07.png "이미지제목")
+##### 4. 복사한 파일을 붙여 넣는다
+![설치](images/image08.png "이미지제목")
+
+![설치](images/image09.png "이미지제목")
+![설치](images/image10.png "이미지제목")
+![설치](images/image11.png "이미지제목")
+![설치](images/image12.png "이미지제목")
 
 ### 3. package control 설치 
 설치 url: <https://packagecontrol.io/installation>
