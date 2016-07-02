@@ -33,7 +33,7 @@ url: <https://packagecontrol.io/installation>
 ![설치](images/image09.png "이미지제목")
 ##### 2. 콘솔창 열기
 ![설치](images/image10.png "이미지제목")
-##### 3. 복사한 내용 붙여 넣기
+##### 3. 복사한 내용 붙여 넣고 엔터로 설치
 ![설치](images/image11.png "이미지제목")
 
 ### 설치 완료
