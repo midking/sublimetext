@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"EncodingHelper",
+		"IMESupport",
+		"LESS",
+		"Markdown Preview",
+		"Open-Include",
+		"Package Control",
+		"REM PX",
+		"Sass",
+		"SCSS",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Flatland",
+		"View In Browser"
+	]
+}
